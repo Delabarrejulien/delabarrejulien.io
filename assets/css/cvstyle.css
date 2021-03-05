@@ -1,0 +1,81 @@
+html,
+body {
+    background-color: #efefef;
+    background-image: url(../img/font\ total.png);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+input[type='image'] {
+    width: 170px;
+}
+
+#navbar {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+h2 {
+    color: #106697;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    text-decoration-line: underline;
+}
+
+#entete {
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 85px;
+}
+
+#bio {
+    font-family: 'Staatliches', cursive;
+    font-size: 40px;
+}
+
+#works1 {
+    text-align: center;
+    list-style: none;
+    font-family: 'Staatliches', cursive;
+    font-size: 35px;
+}
+
+#works2 {
+    text-align: center;
+    list-style: none;
+    font-family: 'Staatliches', cursive;
+    font-size: 35px;
+}
+
+#works3 {
+    text-align: center;
+    list-style: none;
+    font-family: 'Staatliches', cursive;
+    font-size: 35px;
+}
+
+#school {
+    list-style: none;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 35px;
+}
+
+#fun {
+    list-style: none;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 35px;
+}
+
+#contact {
+    list-style: none;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 35px;
+}
